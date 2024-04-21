@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kanak</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Game development**
 
 - 💬 Ask me about **Java, C++, Unity**
 
